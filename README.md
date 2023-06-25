@@ -60,5 +60,9 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 ------------
 This code is released under the MIT License. See the LICENSE file for more information.
 
+## Inquiry
+
+You can contact me via: aliforootani@ieee.org
+
 
 
